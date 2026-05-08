@@ -11,6 +11,10 @@
 <!-- 成功: J (HTTP 200) -->
 <!-- 成功: K (HTTP 200) -->
 #EXTM3U
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="🌀測試",CCTV8K
+http://107.150.52.50:82/live/cctv8k.m3u8?jsbt=1778233876&jsbk=0578b70d0789cd4cdb9a221cc45f847c&from=zbdq6
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="🌀測試",CCTV4K
+http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="🌀測試",翡翠台
 https://tv123.cc.cd/live.php/?ch=9ccf55291
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="🌀測試",TVB Plus
