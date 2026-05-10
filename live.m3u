@@ -1,6 +1,138 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="韓国 | Korea",YTN
+https://tv123.cc.cd/live.php/?ch=b531eccb951
+#EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="韓国 | Korea",YTN2
+https://tv123.cc.cd/live.php/?ch=22307b37952
+#EXTINF:-1 tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png" group-title="韓国 | Korea",YTN사이언스
+https://tv123.cc.cd/live.php/?ch=b36dbf05953
+#EXTINF:-1 tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png" group-title="韓国 | Korea",연합뉴스TV
+https://tv123.cc.cd/live.php/?ch=e375648b954
+#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="韓国 | Korea",JTBC
+https://tv123.cc.cd/live.php/?ch=6b37c777955
+#EXTINF:-1 tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png" group-title="韓国 | Korea",JTBC2
+https://tv123.cc.cd/live.php/?ch=b4100f72956
+#EXTINF:-1 tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png" group-title="韓国 | Korea",JTBC4
+https://tv123.cc.cd/live.php/?ch=0aba0ba6957
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="韓国 | Korea",tvN
+https://tv123.cc.cd/live.php/?ch=ef199f4b958
+#EXTINF:-1 tvg-name="tvN SHOW" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png" group-title="韓国 | Korea",tvN SHOW
+https://tv123.cc.cd/live.php/?ch=4cfa6580959
+#EXTINF:-1 tvg-name="tvN DRAMA" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png" group-title="韓国 | Korea",tvN DRAMA
+https://tv123.cc.cd/live.php/?ch=758560f4960
+#EXTINF:-1 tvg-name="tvN STORY" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="韓国 | Korea",tvN STORY
+https://tv123.cc.cd/live.php/?ch=2457667e961
+#EXTINF:-1 tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="韓国 | Korea",채널A
+https://tv123.cc.cd/live.php/?ch=d656744c962
+#EXTINF:-1 tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="韓国 | Korea",채널A플러스
+https://tv123.cc.cd/live.php/?ch=181976d4963
+#EXTINF:-1 tvg-name="TV CHOSUN" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png" group-title="韓国 | Korea",TV CHOSUN
+https://tv123.cc.cd/live.php/?ch=2a77f899964
+#EXTINF:-1 tvg-name="TV CHOSUN 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png" group-title="韓国 | Korea",TV CHOSUN 2
+https://tv123.cc.cd/live.php/?ch=d7e20797965
+#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png" group-title="韓国 | Korea",Mnet
+https://tv123.cc.cd/live.php/?ch=e85ea817966
+#EXTINF:-1 tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png" group-title="韓国 | Korea",MBN
+https://tv123.cc.cd/live.php/?ch=f7580d79967
+#EXTINF:-1 tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png" group-title="韓国 | Korea",MBN 플러스
+https://tv123.cc.cd/live.php/?ch=ab0eaf6c968
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png" group-title="韓国 | Korea",LIFETIME
+https://tv123.cc.cd/live.php/?ch=4335e9f1969
+#EXTINF:-1 tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png" group-title="韓国 | Korea",중화TV
+https://tv123.cc.cd/live.php/?ch=e7620c25970
+#EXTINF:-1 tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png" group-title="韓国 | Korea",히스토리
+https://tv123.cc.cd/live.php/?ch=7b8e4abb971
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓国 | Korea",EBS1
+https://tv123.cc.cd/live.php/?ch=23c84fa0972
+#EXTINF:-1 tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png" group-title="韓国 | Korea",국회방송(NATV)
+https://tv123.cc.cd/live.php/?ch=f0993020973
+#EXTINF:-1 tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png" group-title="韓国 | Korea",ANIBOX
+https://tv123.cc.cd/live.php/?ch=49c46bcd974
+#EXTINF:-1 tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png" group-title="韓国 | Korea",애니맥스
+https://tv123.cc.cd/live.php/?ch=ba9cb731975
+#EXTINF:-1 tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="韓国 | Korea",투니버스
+https://tv123.cc.cd/live.php/?ch=260009cd976
+#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://pjytv.760515.xyz/logo/KBS1.png" group-title="韓国 | Korea",KBS1
+https://tv123.cc.cd/live.php/?ch=011c2531977
+#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://pjytv.760515.xyz/logo/KBS2.png" group-title="韓国 | Korea",KBS2
+https://tv123.cc.cd/live.php/?ch=9d53f2f5978
+#EXTINF:-1 tvg-name="KBS드라마" tvg-logo="https://pjytv.760515.xyz/logo/KBS드라마.png" group-title="韓国 | Korea",KBS드라마
+https://tv123.cc.cd/live.php/?ch=94c0e009979
+#EXTINF:-1 tvg-name="KBS조이" tvg-logo="https://pjytv.760515.xyz/logo/KBS조이.png" group-title="韓国 | Korea",KBS조이
+https://tv123.cc.cd/live.php/?ch=16d0ab48980
+#EXTINF:-1 tvg-name="KBS키즈" tvg-logo="https://pjytv.760515.xyz/logo/KBS키즈.png" group-title="韓国 | Korea",KBS키즈
+https://tv123.cc.cd/live.php/?ch=c19609bf981
+#EXTINF:-1 tvg-name="KBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/KBS LIFE.png" group-title="韓国 | Korea",KBS LIFE
+https://tv123.cc.cd/live.php/?ch=c45cd790982
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://pjytv.760515.xyz/logo/KBS Story.png" group-title="韓国 | Korea",KBS Story
+https://tv123.cc.cd/live.php/?ch=4672745b983
+#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://pjytv.760515.xyz/logo/KBS WORLD.png" group-title="韓国 | Korea",KBS WORLD
+https://tv123.cc.cd/live.php/?ch=1430100d984
+#EXTINF:-1 tvg-name="KBS뉴스" tvg-logo="https://pjytv.760515.xyz/logo/KBS뉴스.png" group-title="韓国 | Korea",KBS뉴스
+https://tv123.cc.cd/live.php/?ch=6f0a13b5985
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://pjytv.760515.xyz/logo/SBS.png" group-title="韓国 | Korea",SBS
+https://tv123.cc.cd/live.php/?ch=99c81793986
+#EXTINF:-1 tvg-name="SBS플러스" tvg-logo="https://pjytv.760515.xyz/logo/SBS플러스.png" group-title="韓国 | Korea",SBS플러스
+https://tv123.cc.cd/live.php/?ch=9bc829c5987
+#EXTINF:-1 tvg-name="SBS퍼니" tvg-logo="https://pjytv.760515.xyz/logo/SBS퍼니.png" group-title="韓国 | Korea",SBS퍼니
+https://tv123.cc.cd/live.php/?ch=ff50ee79988
+#EXTINF:-1 tvg-name="SBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/SBS LIFE.png" group-title="韓国 | Korea",SBS LIFE
+https://tv123.cc.cd/live.php/?ch=d1198b95989
+#EXTINF:-1 tvg-name="SBS KPOP" tvg-logo="https://pjytv.760515.xyz/logo/SBS KPOP.png" group-title="韓国 | Korea",SBS KPOP
+https://tv123.cc.cd/live.php/?ch=62c1663f990
+#EXTINF:-1 tvg-name="SBS골프" tvg-logo="https://pjytv.760515.xyz/logo/SBS골프.png" group-title="韓国 | Korea",SBS골프
+https://tv123.cc.cd/live.php/?ch=da07f418991
+#EXTINF:-1 tvg-name="SBS Golf2" tvg-logo="https://pjytv.760515.xyz/logo/SBS Golf2.png" group-title="韓国 | Korea",SBS Golf2
+https://tv123.cc.cd/live.php/?ch=54c4a61e992
+#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://pjytv.760515.xyz/logo/SBS스포츠.png" group-title="韓国 | Korea",SBS스포츠
+https://tv123.cc.cd/live.php/?ch=7380665b993
+#EXTINF:-1 tvg-name="SBS Biz" tvg-logo="https://pjytv.760515.xyz/logo/SBS Biz.png" group-title="韓国 | Korea",SBS Biz
+https://tv123.cc.cd/live.php/?ch=070ebe73994
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://pjytv.760515.xyz/logo/MBC.png" group-title="韓国 | Korea",MBC
+https://tv123.cc.cd/live.php/?ch=f1d65c8d995
+#EXTINF:-1 tvg-name="MBC드라마넷" tvg-logo="https://pjytv.760515.xyz/logo/MBC드라마넷.png" group-title="韓国 | Korea",MBC드라마넷
+https://tv123.cc.cd/live.php/?ch=8d244d2e996
+#EXTINF:-1 tvg-name="MBC에브리원" tvg-logo="https://pjytv.760515.xyz/logo/MBC에브리원.png" group-title="韓国 | Korea",MBC에브리원
+https://tv123.cc.cd/live.php/?ch=20049f80997
+#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://pjytv.760515.xyz/logo/MBC M.png" group-title="韓国 | Korea",MBC M
+https://tv123.cc.cd/live.php/?ch=f891a4b5998
+#EXTINF:-1 tvg-name="MBC ON" tvg-logo="https://pjytv.760515.xyz/logo/MBC ON.png" group-title="韓国 | Korea",MBC ON
+https://tv123.cc.cd/live.php/?ch=fc81fe10999
+#EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://pjytv.760515.xyz/logo/MBCNET.png" group-title="韓国 | Korea",MBCNET
+https://tv123.cc.cd/live.php/?ch=2ba803d91000
+#EXTINF:-1 tvg-name="아리랑TV" group-title="韓国 | Korea",아리랑TV
+https://tv123.cc.cd/live.php/?ch=d9d0d3541001
+#EXTINF:-1 tvg-name="TBSTV" group-title="韓国 | Korea",TBSTV
+https://tv123.cc.cd/live.php/?ch=8d4eada91002
+#EXTINF:-1 tvg-name="ABN" tvg-logo="https://pjytv.760515.xyz/logo/ABN.png" group-title="韓国 | Korea",ABN
+https://tv123.cc.cd/live.php/?ch=f44ce1a41003
+#EXTINF:-1 tvg-name="농협TV" tvg-logo="https://pjytv.760515.xyz/logo/농협TV.png" group-title="韓国 | Korea",농협TV
+https://tv123.cc.cd/live.php/?ch=727fae8b1004
+#EXTINF:-1 tvg-name="복지TV" group-title="韓国 | Korea",복지TV
+https://tv123.cc.cd/live.php/?ch=11ebaaec1005
+#EXTINF:-1 tvg-name="국민방송" tvg-logo="https://pjytv.760515.xyz/logo/국민방송.png" group-title="韓国 | Korea",국민방송
+https://tv123.cc.cd/live.php/?ch=57fa8d3d1006
+#EXTINF:-1 tvg-name="문화유산채널" tvg-logo="https://pjytv.760515.xyz/logo/문화유산채널.png" group-title="韓国 | Korea",문화유산채널
+https://tv123.cc.cd/live.php/?ch=a681130d1007
+#EXTINF:-1 tvg-name="방송대학TV" tvg-logo="https://pjytv.760515.xyz/logo/방송대학TV.png" group-title="韓国 | Korea",방송대학TV
+https://tv123.cc.cd/live.php/?ch=82a12c6a1008
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓国 | Korea",EBS1
+https://tv123.cc.cd/live.php/?ch=3a9e04e81009
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://pjytv.760515.xyz/logo/EBS2.png" group-title="韓国 | Korea",EBS2
+https://tv123.cc.cd/live.php/?ch=8662687d1010
+#EXTINF:-1 tvg-name="EBS+1" tvg-logo="https://pjytv.760515.xyz/logo/EBS+1.png" group-title="韓国 | Korea",EBS+1
+https://tv123.cc.cd/live.php/?ch=025e3bcc1011
+#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://pjytv.760515.xyz/logo/EBS+2.png" group-title="韓国 | Korea",EBS+2
+https://tv123.cc.cd/live.php/?ch=d82ee62d1012
+#EXTINF:-1 tvg-name="EBS English" tvg-logo="https://pjytv.760515.xyz/logo/EBS English.png" group-title="韓国 | Korea",EBS English
+https://tv123.cc.cd/live.php/?ch=be9a9f7f1013
+#EXTINF:-1 tvg-name="한국영화1" group-title="韓国 | Korea",한국영화1
+https://tv123.cc.cd/live.php/?ch=400d826c1014
+#EXTINF:-1 tvg-name="한국영화2" group-title="韓国 | Korea",한국영화2
+https://tv123.cc.cd/live.php/?ch=b16e2e8c1015
+#EXTINF:-1 tvg-name="한국영화3" group-title="韓国 | Korea",한국영화3
+https://tv123.cc.cd/live.php/?ch=0531bbb31016
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",PONTV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",TVRI Kalbar
