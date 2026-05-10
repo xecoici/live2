@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="韓国 | Korea",YTN
 https://tv123.cc.cd/live.php/?ch=b531eccb951
 #EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="韓国 | Korea",YTN2
