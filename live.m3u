@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",客家電視台
+https://tv123.cc.cd/live.php/?ch=b960b49a55
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
@@ -141,6 +143,64 @@ https://tv123.cc.cd/live.php/?ch=0531bbb31016
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",TVRI Kalbar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI Daerah",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="TVRI Daerah",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1zgV.png" group-title="TVRI Daerah",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="TVRI Daerah",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="TVRI Daerah",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="TVRI Daerah",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="TVRI Daerah",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="TVRI Daerah",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="TVRI Daerah",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="TVRI Daerah",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="TVRI Daerah",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="TVRI Daerah",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="TVRI Daerah",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="TVRI Daerah",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="TVRI Daerah",TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="TVRI Daerah",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="TVRI Daerah",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="TVRI Daerah",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="TVRI Daerah",TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="TVRI Daerah",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="TVRI Daerah",TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="TVRI Daerah",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="TVRI Daerah",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="TVRI Daerah",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="TVRI Daerah",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="TVRI Daerah",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="TVRI Daerah",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="TVRI Daerah",TVRI Sumatera Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="TVRI Daerah",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunei",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Brunei",RTB Aneka
