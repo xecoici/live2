@@ -6,6 +6,8 @@
 https://test.946985.filegear-sg.me/proxy/12b11283589e437c
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",RuaiTV
 https://www.youtube.com/watch?v=xX7Vj5abKPw
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",RuaiTV
+#EXTM3U x-tvg-url="https://www.youtube.com/watch?v=xX7Vj5abKPw"
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
