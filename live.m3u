@@ -1,12 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
-#EXTINF:-1 group-title="测试",测试2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",HAKKA TV
 https://test.946985.filegear-sg.me/proxy/12b11283589e437c
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",RuaiTV
+https://www.youtube.com/watch?v=xX7Vj5abKPw
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
