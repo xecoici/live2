@@ -16,7 +16,7 @@ http://77.90.60.172:8888/5
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",NOW
 http://77.90.60.172:8888/4
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",NOW
-http://77.90.60.172:8888/7
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-dash-hls/da-cl-fhd-4s-ma/ll-test-dash-hls.mpd
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",NOW
 http://77.90.60.172:8888/8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
