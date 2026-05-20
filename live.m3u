@@ -29,6 +29,22 @@ http://49.232.195.88:55667/cctv8k.m3u8
 http://49.232.195.88:55667/cctv5.m3u8
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",WWE
 http://195.128.24.20/live/jjyw70ss4w/ek5ui8ithc/1853719.ts
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn1
+http://120.234.44.98:18180/TV00000000000000000032@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn2
+http://120.234.44.98:18180/TV00000000000000000035@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn3
+http://120.234.44.98:18180/TV00000000000000000034@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試", VIUTV
+http://120.234.44.98:18180/TV00000000000000000037@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",VIUTV6
+http://120.234.44.98:18180/TV00000000000000000084@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn4
+http://120.234.44.98:18180/TV00000000000000000008@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn5
+http://120.234.44.98:18180/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn6
+http://120.234.44.98:18180/TV00000000000000000024@HHZT
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
