@@ -45,6 +45,8 @@ http://120.234.44.98:18180/TV00000000000000000008@HHZT
 http://120.234.44.98:18180/TV00000000000000000009@HHZT
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn6
 http://120.234.44.98:18180/TV00000000000000000024@HHZT
+#EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",cn6
+http://tzw.myds.me:8012/udp/225.1.4.254:1300
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
