@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="" group-title="Korea",TVN
+https://live-th10.myjktv.com/playlist/live.m3u8?sid=V1EeXdJu612CtGq94tXI35pqtAIxudoALN6ZSC6A&secret=9544f77e9c146e45c8d42e6ebe7f1825&time=1765803677
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",NOW 4k
 http://77.90.60.172:8888/2
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",NOW618
