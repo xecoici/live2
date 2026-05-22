@@ -1,6 +1,16 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
+https://n08.rcs.revma.com/xt9nhzsbv4uvv/8_1sm91wagzq2zh02/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",LITE FM
+https://n01.rcs.revma.com/bn4ex8sbv4uvv/1_11qy40t5x5f8s02/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",MY FM
+https://n18.rcs.revma.com/hc3unrtbv4uvv/18_1m1uq4ol554gz02/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",MELODY FM
+https://n06.rcs.revma.com/2u1n6dtbv4uvv/6_1kug2ckkb6hbi02/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio",KENYALANG FM
+https://n03.rcs.revma.com/qyg9zmvbv4uvv/3_p5bxfep3c6dw02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN
 https://live-th10.myjktv.com/playlist/live.m3u8?sid=V1EeXdJu612CtGq94tXI35pqtAIxudoALN6ZSC6A&secret=9544f77e9c146e45c8d42e6ebe7f1825&time=1765803677
 #EXTINF:-1 tvg-name="客家電視台"  group-title="🌀測試",NOW 4k
