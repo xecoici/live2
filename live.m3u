@@ -1,6 +1,18 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CCTV",Singkawang1
+https://pantau.singkawangkota.go.id/stream/alitsafioddin/ch-3/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CCTV",Singkawang2
+https://pantau.singkawangkota.go.id/stream/mahkota/ch-1/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CCTV",Singkawang3
+https://pantau.singkawangkota.go.id/stream/ai/ch-2/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CCTV",Sintang1
+https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_03&mp4=all&h264=baseline
+#EXTINF:-1 tvg-logo="" group-title="CCTV",Sintang2
+https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_02&mp4=all&h264=baseline
+#EXTINF:-1 tvg-logo="" group-title="CCTV",Sintang3
+https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h264=baseline
 #EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",LITE FM
