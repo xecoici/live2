@@ -1,6 +1,32 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 
 #EXTM3U
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV DIGITAL (S6)
+http://opplextv.cyou:8080/nasir6160/nasir/351030
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" ,ANTV DIGITAL (S2)
+http://103.148.44.38:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar DIGITAL (S5)
+http://103.148.44.38:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV (S2)
+http://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI DIGITAL (S4)
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S3)
+http://103.148.44.38:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 (S2)
+http://202.169.224.202:8800/udp/239.4.1.2:1234
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV DIGITAL (S4)
+http://103.148.44.38:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" tvg-id="--" ,TVONE (S3)
+http://indihuy.streamized.net/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV (S4)
+http://202.169.224.202:8800/udp/239.1.3.3:1234
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI DIGITAL (S4)
+http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" ,TVRI WORLD DIGITAL (S3)
+http://103.148.44.38:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" ,TVRI SPORT (S1)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|User-Agent=referrer=https://klik.tvri.go.id/
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang1
 https://pantau.singkawangkota.go.id/stream/alitsafioddin/ch-3/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang2
