@@ -42,7 +42,11 @@ https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_02&mp4=all&h264=baseli
 #EXTINF:-1 tvg-logo="" group-title="Radio",Sintang3
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h264=baseline
 #EXTINF:-1 tvg-logo="" group-title="Mandarin",Hakka TV
-https://4gtvfreeembed-cds.cdn.hinet.net/live/pool/4gtv-4gtv043/4gtv-live-mid/4gtv-4gtv043-avc1_800000=4-mp4a_128000=7.m3u8?token=1_ks9IlPnTlZtWeT3BBieA&expires=1779657095&token1=mBlG0D3B-EvFGWhdOx9J0Q&expires1=1779657095|User-Agent=referrer=https://https://www.hakkatv.org.tw/live
+https://tv123.cc.cd/live.php/?ch=517017111769
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",Hakka TV
+https://lo.esnad.dpdns.org/?id=107&token=pixman@4gtv-2026
+#EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
+https://28093.live.streamtheworld.com/RADIO_KLASIK.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",LITE FM
@@ -52,7 +56,7 @@ https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv/1_g2gokxomg4tb02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",MELODY FM
 https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",KENYALANG FM
-https://n03.rcs.revma.com/qyg9zmvbv4uvv/3_p5bxfep3c6dw02/playlist.m3u8
+https://n34a-eu.rcs.revma.com/qyg9zmvbv4uvv/52_1v6c3u8z9qxx202/main/178244839.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio",AI FM
 https://22283.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio",CAT FM
