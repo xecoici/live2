@@ -30,14 +30,19 @@ http://103.148.44.38:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" ,TVRI SPORT (S1)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|User-Agent=referrer=https://klik.tvri.go.id/
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://pantau.singkawangkota.go.id/stream/alitsafioddin/ch-3/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://pantau.singkawangkota.go.id/stream/mahkota/ch-1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://pantau.singkawangkota.go.id/stream/ai/ch-2/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://pantau.singkawangkota.go.id/stream/poneg/ch-1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",Singkawang5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://pantau.singkawangkota.go.id/stream/newfashion/ch-1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",Sintang1
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_03&mp4=all&h264=baseline
@@ -636,7 +641,6 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 https://media.jibs.co.kr/stream/1_2000_143677/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 https://tvlive.sbs.co.kr/sbsch6news/sbsch6news1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk5NjkxMTAsInBhdGgiOiIvc2JzY2g2bmV3czEuc3RyZWFtIiwiZHVyYXRpb24iOjYwLCJ1bm8iOiJhYjc4YzlmNy1iOTEyLTQ4ZjMtYmI1NS1jN2VhM2U2Y2ExZGUiLCJpYXQiOjE3Nzk5NjkwNTB9.BJ8wrNQ3eNxG0qw9l6LTzrvc9J0qf87eNJkwxhRQxwA&solsessionid=0542889acd47802aab581ee1b193c2e0
 #EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV
