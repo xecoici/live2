@@ -636,6 +636,7 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS
 https://media.jibs.co.kr/stream/1_2000_143677/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 https://tvlive.sbs.co.kr/sbsch6news/sbsch6news1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk5NjkxMTAsInBhdGgiOiIvc2JzY2g2bmV3czEuc3RyZWFtIiwiZHVyYXRpb24iOjYwLCJ1bm8iOiJhYjc4YzlmNy1iOTEyLTQ4ZjMtYmI1NS1jN2VhM2U2Y2ExZGUiLCJpYXQiOjE3Nzk5NjkwNTB9.BJ8wrNQ3eNxG0qw9l6LTzrvc9J0qf87eNJkwxhRQxwA&solsessionid=0542889acd47802aab581ee1b193c2e0
 #EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV
