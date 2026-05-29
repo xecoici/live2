@@ -689,7 +689,6 @@ https://live-mobileweb-kr-cdn-z02.sooplive.com/live-stmc-37/auth_playlist.m3u8?a
 #EXTINF:-1 tvg-logo="" group-title="Korea",A Channel
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3ODAwNTU2MjV9.8RThB_d6PZwN8lG15oCvpW105JrVizbFGa9XgLysM_I
 #EXTINF:-1 tvg-logo="" group-title="Korea",A Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",ENA
 https://k227.jk-cdn.com/playlist/live.m3u8?sid=QfY1YncHfqcsxi4b89UvuUMjoVPhMlGTu0nicEeJ&secret=84bd0ba45096fb24edc44862f8532993&time=1747985765
