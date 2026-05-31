@@ -258,6 +258,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://bit.ly/RtmEpg" group-title="SINGAPURA",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
+#EXTINF:-1 tvg-name="AEC" tvg-group-title="SINGAPURA",TV3
+https://2bfd741e.b-cdn.net/streamer/3iWcUSXZLTztaTtw8k7q3D.m3u8?expires=1780219639&token=VoKyLAk-sazZ7zAyAzZINQYCTArIIJ7fsAztgE29_Lk
+
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",TV3
+https://on.bbr3.workers.dev/tv3.m3u8
+
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pVjaeVsfFklBiGNzbdGLQtaHlMkkyaatp-qEGMCzRCGHk5QgB3_5EoxZJoXuH-SNBv1yuFTjRAO2Fp_aN3W8hAXvykIpHP1uUxGmhaN12N1Ll7EfnT9XfisjFbfXrAlmFRAmMpZXH4w/w345-h230-p-k-no-nu/tvs.png" group-title="SINGAPURA",TV3
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
+
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
