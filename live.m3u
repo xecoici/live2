@@ -46,9 +46,17 @@ https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_02&mp4=all&h264=baseli
 #EXTINF:-1 tvg-logo="" group-title="Radio",Sintang3
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h264=baseline
 #EXTINF:-1 tvg-logo="" group-title="Mandarin",Hakka TV
-https://tv123.cc.cd/live.php/?ch=517017111769
-#EXTINF:-1 tvg-logo="" group-title="Mandarin",Hakka TV
 https://lo.esnad.dpdns.org/?id=107&token=pixman@4gtv-2026
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",Movie Movie
+http://77.90.60.172:55555/2/video/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",爱尔达体育1台
+http://77.90.60.172:55555/5/video/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",随机今晚欧冠粤语
+http://77.90.60.172:55555/1/video/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",随机明天641
+http://77.90.60.172:55555/4/video/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",随机今晚欧冠4K
+http://77.90.60.172:55555/3/video/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio",KLASIK FM
 https://28093.live.streamtheworld.com/RADIO_KLASIK.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio",GOXUAN
@@ -701,8 +709,6 @@ https://live-mobileweb-kr-cdn-z02.sooplive.com/live-stmc-37/auth_playlist.m3u8?a
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",ENA
 https://k227.jk-cdn.com/playlist/live.m3u8?sid=QfY1YncHfqcsxi4b89UvuUMjoVPhMlGTu0nicEeJ&secret=84bd0ba45096fb24edc44862f8532993&time=1747985765
-#EXTINF:-1 tvg-logo="" group-title="Korea",MBC Sport
-https://live-global-cdn-v02.sooplive.com/live-stmc-21/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.-O3J_LsR9NJImfLy_xqZkaovn9wi-wwwl1mihHADrjCDU2HULFtb_wcnwrOEzU9wUynhxbe02HlsaXfr9uKS8i12PvIzW0kBdrHkTJC3DDZx4qKe0kJPsfLtpzYAUbYFNk1FaLHCwORfczS4A5B40-b8WacRbh87NvZHdnE50vrMbj4jodN1GwZMRmphWZEr
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN
