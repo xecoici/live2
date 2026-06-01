@@ -67,6 +67,32 @@ https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",HUB CITY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383498&extension=ts&play_token=nYjBmNVv9Q
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",HUB V DRAMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383501&extension=ts&play_token=eGGTHMEx97
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin"NOW JELLY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383515&extension=ts&play_token=1alGNpROGC
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",SCC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383527&extension=ts&play_token=R9Di623Z9X
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",OH!K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383518&extension=ts&play_token=h6K4IRnyyD
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",ASTRO SENSASI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383499&extension=ts&play_token=aUqHsSaUgp
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title=",FAIRYCHILD1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=1495596&extension=ts&play_token=o7kHKEN9c6
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",FAIRYCHILD2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=1495597&extension=ts&play_token=fa2QiYVtz5
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",NS1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=382843&extension=ts&play_token=1AJVycLnT8
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",NS2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=382842&extension=ts&play_token=uSMcibtrlQ
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",N3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=382841&extension=ts&play_token=ENm7AOYZX9
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",NS4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=382840&extension=ts&play_token=wweam0JNa7
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",NS5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=382839&extension=ts&play_token=ov9nBEjgvJ
 
 #EXTINF:-1 tvg-logo="" group-title="Radio",KLASIK FM
 https://28093.live.streamtheworld.com/RADIO_KLASIK.mp3
@@ -302,6 +328,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="SINGAPURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="SINGAPURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TVS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:D1&stream=383065&extension=ts&play_token=Rll5zqf8Kv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJbsblUgWN1GpghQxkRwFdMvPtObXPDSGlQ&s" group-title="SINGAPURA",TV 9
 
