@@ -329,7 +329,7 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556138&extension=ts&play_token=h9XRsSqAtx
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",ELEVEN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=483973&extension=ts&play_token=GzOQgls8AA
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="SPORT 4k",Eleven PL
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="SPORT 4k",ELEVEN PL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544301&extension=ts&play_token=vEHrDv8457
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",NOW Sport
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556135&extension=ts&play_token=MN20bOQm9o
@@ -339,9 +339,11 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544238&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544244&extension=ts&play_token=qcfB4AeThP
 #EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",SKY SPOERT F1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544243&extension=ts&play_token=T2wAhxESG9
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",tnt ultimate
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TNT ULTIMATE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544246&extension=ts&play_token=Q9IyUFj4oq
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="SPORT 4k" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",TNT SPORT
 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1544246&extension=ts&play_token=Q9IyUFj4oq
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",TTV
 http://74.91.26.218:82/live/ttv.m3u8
 
