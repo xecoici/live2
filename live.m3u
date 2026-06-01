@@ -57,6 +57,8 @@ http://77.90.60.172:55555/1/video/index.m3u8
 http://77.90.60.172:55555/4/video/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Mandarin",随机今晚欧冠4K
 http://77.90.60.172:55555/3/video/index.m3u8
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Mandarin",Master
+https://iptv.852851.xyz/ch/d512f47aca83249dbb45ca73778320ed/master.m3u8
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Mandarin",Now直播台
 https://cdn.19891230.eu.org/hk/now-331/index.m3u8
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="MandarinI",Now新聞台
