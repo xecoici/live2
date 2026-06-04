@@ -61,13 +61,17 @@ http://77.90.60.172:55555/3/video/index.m3u8
 https://iptv.852851.xyz/ch/d512f47aca83249dbb45ca73778320ed/master.m3u8
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Mandarin",Now直播台
 https://cdn.19891230.eu.org/hk/now-331/index.m3u8
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="MandarinI",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Mandarin",Now新聞台
 https://cdn.19891230.eu.org/hk/now-332/index.m3u8
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",Now財經台
 https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="Mandarin",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Mandarin",Fairychild East
+http://tv24.site:80/play/live.php?mac=00:1A:79:EF:78:08&stream=500942&extension=ts&play_token=sguxwNKhk0
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Mandarin",Fairychild HD
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Mandarin",HUB CITY
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:B8&stream=383498&extension=ts&play_token=nYjBmNVv9Q
@@ -313,13 +317,13 @@ https://px.tv911.ccwu.cc/lr/dLQOnLm2jaSUdaD2jNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",ASTRO CERIA
 https://px.tv911.ccwu.cc/lr/dLQOnLm2jBnepReyjNt8QZe8vZnBjRBl6PF/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=5d5112b6&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=7bf3a62adf31b75216774738a1b98d62&ct=20605
 
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",NOW Jelly
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Mandarin",NOW Jelly
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:5C&stream=383515&extension=ts&play_token=DpixqskBGS
 
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",NOW City
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Mandarin",NOW City
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:5C&stream=383498&extension=ts&play_token=rSZnUO2fI0
 
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SINGAPURA",NOW Drama
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Mandarin",NOW Drama
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B6:47:5C&stream=383501&extension=ts&play_token=Veoh62QF1n
 
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pVjaeVsfFklBiGNzbdGLQtaHlMkkyaatp-qEGMCzRCGHk5QgB3_5EoxZJoXuH-SNBv1yuFTjRAO2Fp_aN3W8hAXvykIpHP1uUxGmhaN12N1Ll7EfnT9XfisjFbfXrAlmFRAmMpZXH4w/w345-h230-p-k-no-nu/tvs.png" group-title="SINGAPURA",TV3
