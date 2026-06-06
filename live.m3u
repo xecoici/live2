@@ -45,6 +45,8 @@ https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_03&mp4=all&h264=baseli
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_5_02&mp4=all&h264=baseline
 #EXTINF:-1 tvg-logo="" group-title="Radio",Sintang3
 https://sintang.go.id/go2rtc/api/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h264=baseline
+#EXTINF:-1 tvg-logo="" group-title="Mandarin",WWE
+http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/1449.ts
 #EXTINF:-1 tvg-logo="" group-title="Mandarin",Sport
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:79:1F:11&stream=1284559&extension=ts&play_token=Ee2mJUXz0k
 #EXTINF:-1 tvg-logo="" group-title="Mandarin",Movie Movie
