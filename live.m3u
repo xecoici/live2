@@ -1273,7 +1273,26 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?kid=81
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd?kid=d561ff97-6397-473e-9b45-6b44cdffcdd2
 
+#EXTINF:-1 tvg-id="FIFA 1" tvg-name="FIFA 1" group-title="Unifi TV",FIFA 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa1)/master.mpd
 
+#EXTINF:-1 tvg-id="FIFA 2" tvg-name="FIFA 2" group-title="Unifi TV",FIFA 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa2)/master.mpd
+
+#EXTINF:-1 tvg-id="FIFA 3" tvg-name="FIFA 3" group-title="Unifi TV",FIFA 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
+https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa3)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Kalbar",PONTV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w277463652.m3u8
