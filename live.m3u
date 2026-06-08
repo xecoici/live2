@@ -784,6 +784,8 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 https://px.tv911.ccwu.cc/lr/dLQOnLm2jWaB6Ry9ZNSNVrfOVCsIVCel6iIMdN0h/playlist.m3u8?cu=881505fa&cd=f94ecb6f&cp=2b008d24&cn=31c60c2f&rp=nl_4dL1OjL_hjLdO&tid=m9c00d3e4b8fb&tsum=837304496be21b3639c4c0287d572425&ct=20605
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
 https://vod-th9.cloudrsst.com:444/krtv/Salmokji.Whispering.Water.mp4/chunklist_w516920994.m3u8?182.11.152.49&doannuadiconchoendtime=1780034880&doannuadiconchohash=vISY9IgSyrm6H9AVD4WptYAfOZ1EFaGp4FODBYMbVCTm7FFdU-qR3muxpKbggR70&doannuadiconchostarttime=1780027680
+#EXTINF:-1 tvg-logo="" group-title="Korea",KBS DRAMA
+http://124.63.136.174:9981/play/ticket/stream/channel/ee2cd0cb3a22d945a4dde1bac644251f?title=20%20%3A%20KBS%20DRAMA
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC1 (VPN)
@@ -792,17 +794,24 @@ https://live.imnews.imbc.com/imnews/_definst_/live2.stream/chunklist_w914733750.
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1448055229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC3
 http://124.63.136.174:9981/stream/channelid/379908702?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC ON
+http://124.63.136.174:9981/play/ticket/stream/channel/a03ec81980b571da0da0fede9633e6fa?title=26%20%3A%20MBC%20ON
+#EXTINF:-1 tvg-logo="" group-title="Korea",MBC DRAMA NET
+http://124.63.136.174:9981/play/ticket/stream/channel/add4266865910dd7604430f96f791b9f?title=25%20%3A%20MBC%20Dramanet
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS1
 https://media.jibs.co.kr/stream/1_2000_143677/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS2
 http://124.63.136.174:9981/stream/channelid/1538002823?profile=pass
-https://tvlive.sbs.co.kr/sbsch6news/sbsch6news1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk5NjkxMTAsInBhdGgiOiIvc2JzY2g2bmV3czEuc3RyZWFtIiwiZHVyYXRpb24iOjYwLCJ1bm8iOiJhYjc4YzlmNy1iOTEyLTQ4ZjMtYmI1NS1jN2VhM2U2Y2ExZGUiLCJpYXQiOjE3Nzk5NjkwNTB9.BJ8wrNQ3eNxG0qw9l6LTzrvc9J0qf87eNJkwxhRQxwA&solsessionid=0542889acd47802aab581ee1b193c2e0
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBSFun
+http://124.63.136.174:9981/play/ticket/stream/channel/693cbf0340c16273659333953e587350?title=16%20%3A%20SBS%20funE
+#EXTINF:-1 tvg-logo="" group-title="Korea",SBS SPORT
+http://124.63.136.174:9981/play/ticket/stream/channel/268ff9b01733286c6bf94c42df3e9f53?title=17%20%3A%20SBS%20Sports
 #EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV
 http://onair.cdn.tvchosun.com///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////origin1////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////_definst_///////////tvchosun_s1////////////////////////////////////chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MOVIE
-https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/cf6f32ce-8d93-4ec1-b147-3e3c09ed6cda/0.m3u8
+http://124.63.136.174:9981/play/ticket/stream/channel/651b1f7e34e1f6a64092898696eb5574?title=13%20%3A%20THE%20MOVIE
 #EXTINF:-1 tvg-logo="" group-title="Korea",OBS
 https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/chunklist_w1714106009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC
@@ -811,20 +820,32 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 https://live-mobileweb-kr-cdn-z02.sooplive.com/live-stmc-37/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.hyRguHoI6-KmAEQvrBh-wnkbx0hsMY5oti-M9iMzu78T06mqo9e8wATPf1jCba8AZ2J9ms4MpnybrRAq1qWy3kOCP8uj7Hx0exQZ7NVXRL0CNUOGgF25j3--okuLiNzJn7TolXLSRPnoX42gk53Uw7pvh_9NH2Pws3M2iXZ0VXI,
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC3
 http://124.63.136.174:9981/stream/channelid/1883002244?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",JTBC4
+http://124.63.136.174:9981/play/ticket/stream/channel/84553cf0159e7088da783e3530dadbe4?title=1%20%3A%20JTBC
 #EXTINF:-1 tvg-logo="" group-title="Korea",A Channel
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",ENA
 https://k227.jk-cdn.com/playlist/live.m3u8?sid=QfY1YncHfqcsxi4b89UvuUMjoVPhMlGTu0nicEeJ&secret=84bd0ba45096fb24edc44862f8532993&time=1747985765
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",TVN
+#EXTINF:-1 tvg-logo="" group-title="Korea",TVN2
 http://124.63.136.174:9981/stream/channelid/124819578?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",TVN3
+http://124.63.136.174:9981/play/ticket/stream/service/bd1839496baf911b7f776ff910c6ba88?title=tvN
+#EXTINF:-1 tvg-logo="" group-title="Korea",TVN STORY
+http://124.63.136.174:9981/play/ticket/stream/channel/ff11125acde5309d3ff7de46f2a72c30?title=7%20%3A%20tvN%20Story
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN Event
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B4A2AB43.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",TVN SPORT
+http://124.63.136.174:9981/play/ticket/stream/channel/0f060f96b38aa7b3b45a262c0a48c9f9?title=6%20%3A%20tvN%20Sports
 #EXTINF:-1 tvg-logo="" group-title="Korea",OCN
 http://124.63.136.174:9981/stream/channelid/2125707460?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",OCN2
+http://124.63.136.174:9981/play/ticket/stream/channel/c4b8b37eb79a4cf780e7f5914df45ad7?title=10%20%3A%20OCN
 #EXTINF:-1 tvg-logo="" group-title="Korea",OCN MOVIE
 http://124.63.136.174:9981/stream/channelid/512340530?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Korea",OCN MOVIE2
+http://124.63.136.174:9981/play/ticket/stream/channel/32b2891ec8cd950f659351a27ef9f70d?title=11%20%3A%20OCN%20MOVIES2
 
 #EXTINF:-1 tvg-logo="" group-title="Korea",FIFA
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_72_D4D8D054.m3u8
