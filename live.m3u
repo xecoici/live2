@@ -785,7 +785,7 @@ https://px.tv911.ccwu.cc/lr/dLQOnLm2jWaB6Ry9ZNSNVrfOVCsIVCel6iIMdN0h/playlist.m3
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS2
 https://vod-th9.cloudrsst.com:444/krtv/Salmokji.Whispering.Water.mp4/chunklist_w516920994.m3u8?182.11.152.49&doannuadiconchoendtime=1780034880&doannuadiconchohash=vISY9IgSyrm6H9AVD4WptYAfOZ1EFaGp4FODBYMbVCTm7FFdU-qR3muxpKbggR70&doannuadiconchostarttime=1780027680
 #EXTINF:-1 tvg-logo="" group-title="Korea",KBS DRAMA
-http://124.63.136.174:9981/play/ticket/stream/channel/ee2cd0cb3a22d945a4dde1bac644251f?title=20%20%3A%20KBS%20DRAMA
+http://124.63.136.174:9981/stream/channelid/1271934190?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC Gangwon
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC1 (VPN)
@@ -795,9 +795,9 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1448055229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC3
 http://124.63.136.174:9981/stream/channelid/379908702?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC ON
-http://124.63.136.174:9981/play/ticket/stream/channel/a03ec81980b571da0da0fede9633e6fa?title=26%20%3A%20MBC%20ON
+http://124.63.136.174:9981/stream/channelid/432553632?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",MBC DRAMA NET
-http://124.63.136.174:9981/play/ticket/stream/channel/add4266865910dd7604430f96f791b9f?title=25%20%3A%20MBC%20Dramanet
+http://124.63.136.174:9981/stream/channelid/1747375277?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS Jibs
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS1
@@ -805,13 +805,13 @@ https://media.jibs.co.kr/stream/1_2000_143677/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS2
 http://124.63.136.174:9981/stream/channelid/1538002823?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBSFun
-http://124.63.136.174:9981/play/ticket/stream/channel/693cbf0340c16273659333953e587350?title=16%20%3A%20SBS%20funE
+http://124.63.136.174:9981/stream/channelid/62864489?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",SBS SPORT
-http://124.63.136.174:9981/play/ticket/stream/channel/268ff9b01733286c6bf94c42df3e9f53?title=17%20%3A%20SBS%20Sports
+http://124.63.136.174:9981/stream/channelid/821661478?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",ChosunTV
 http://onair.cdn.tvchosun.com///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////origin1////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////_definst_///////////tvchosun_s1////////////////////////////////////chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",MOVIE
-http://124.63.136.174:9981/play/ticket/stream/channel/651b1f7e34e1f6a64092898696eb5574?title=13%20%3A%20THE%20MOVIE
+http://124.63.136.174:9981/stream/channelid/2115967845?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",OBS
 https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/chunklist_w1714106009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",JTBC
@@ -833,11 +833,11 @@ http://124.63.136.174:9981/stream/channelid/124819578?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN3
 http://124.63.136.174:9981/play/ticket/stream/service/bd1839496baf911b7f776ff910c6ba88?title=tvN
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN STORY
-http://124.63.136.174:9981/play/ticket/stream/channel/ff11125acde5309d3ff7de46f2a72c30?title=7%20%3A%20tvN%20Story
+http://124.63.136.174:9981/stream/channelid/1511133695?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN Event
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B4A2AB43.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN SPORT
-http://124.63.136.174:9981/play/ticket/stream/channel/0f060f96b38aa7b3b45a262c0a48c9f9?title=6%20%3A%20tvN%20Sports
+http://124.63.136.174:9981/stream/channelid/370083343?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",OCN
 http://124.63.136.174:9981/stream/channelid/2125707460?profile=pass
 #EXTINF:-1 tvg-logo="" group-title="Korea",OCN2
