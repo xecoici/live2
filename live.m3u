@@ -825,7 +825,7 @@ http://124.63.136.174:9981/play/ticket/stream/channel/84553cf0159e7088da783e3530
 #EXTINF:-1 tvg-logo="" group-title="Korea",A Channel
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",ENA
-https://38.76.201.181:33333/api/v1/client/subscribe?token=5aa34c9bcdf0cf6e934232e97fc5463a
+rtp://233.14.202.175:60000
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",TVN2
