@@ -435,7 +435,7 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 #EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-av3a
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
-http://82.156.243.185:36888/av3a/cctv8
+http://82.156.243.185:36888/av3a/cctv8.m3u8
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="SPORT 4k",Bein 4k
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:2A:2E&stream=1556138&extension=ts&play_token=h9XRsSqAtx
